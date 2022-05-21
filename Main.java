@@ -80,9 +80,11 @@ public class Main {
         System.out.println("6. Sắp xếp quản lý sách. ");
         System.out.println("7. Tìm kiếm bạn đọc. ");
         System.out.println("8. Thoát. ");
-        System.out.println("----------------- ");
+        System.out.println("------------------ ");
 
+    
     }
+
 }
 
 
