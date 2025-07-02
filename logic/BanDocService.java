@@ -25,6 +25,7 @@ public class BanDocService {
             }
         }
     }
+    
     public static void showBanHoc(){
         for (int i = 0; i < Main.banDoc.length; i++) {
             if(Main.banDoc[i]==null) {
