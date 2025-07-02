@@ -34,6 +34,9 @@ public class BanDocService {
             System.out.println("");
         }
     }
+
+
+    
     public static boolean checkBanDoc(){
         boolean cont = true;
         for (int i = 0; i < Main.banDoc.length; i++) {
