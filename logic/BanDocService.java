@@ -41,6 +41,9 @@ public class BanDocService {
                 cont =false;
             }
         }
+
+
+        
         return cont;
 
 
